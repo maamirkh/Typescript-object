@@ -1,3 +1,4 @@
+#! usr/bin/env node
 let book: { title: string; author: string; yearPublished: number } = {
     title: "The Hobbit",
     author: "J.R.R. Tolkien",
